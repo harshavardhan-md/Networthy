@@ -16,7 +16,7 @@ The 24-hour amBITion Hackathon was conducted by Bangalore Institute of Technolog
 Our team "Cosmic" won 3rd place in the AI/ML track for this project Networthy, receiving a certificate and cash prize.
 
 Here is the certificate below:
-![Certificate]()
+![Certificate](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Networthy/amBITion%20Hackathon%20Winners.jpg?raw=true)
 
 ### Features and Functionality
 
