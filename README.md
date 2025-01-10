@@ -19,7 +19,7 @@ Here is the certificate below:
 ![Certificate](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Networthy/amBITion%20Hackathon%20Winners.jpg?raw=true)
 
 ### Features and Functionality
-
+ 
 - **City-specific Information:** Connects newcomers with local guides for personalized support and detailed city information.
 
 - **CityMates:** Connects users with AI-powered local guides for city navigation and settling in.
